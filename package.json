@@ -1,7 +1,7 @@
 {
-  "name": "react-finland-site",
+  "name": "react-wien-site",
   "version": "0.0.0",
-  "description": "React Finland site",
+  "description": "React in Vienna site",
   "main": "index.js",
   "private": true,
   "scripts": {
@@ -13,22 +13,22 @@
     "lint": "eslint . --ext js --ext jsx --ignore-path .gitignore --cache",
     "test": "npm run lint",
     "sitemap":
-      "cd build && sitemap-static --prefix=https://react-finland.fi/ > sitemap.xml",
+      "cd build && sitemap-static --prefix=https://react.wien/ > sitemap.xml",
     "copy:all": "npm run copy:extra",
     "copy:extra": "cp -rfv assets/extra/* build",
     "precommit": "lint-staged"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:ReactFinland/site.git"
+    "url": "git@github.com:ReactWien/site.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ReactFinland/site/issues"
+    "url": "https://github.com/ReactWien/site/issues"
   },
-  "homepage": "https://github.com/ReactFinland/site#readme",
+  "homepage": "https://github.com/ReactWien/site#readme",
   "dependencies": {
     "@react-finland/content-2018": "^11.3.4",
     "antwar": "^0.21.1",

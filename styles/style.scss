@@ -227,6 +227,7 @@ address {
     ),
     url("../assets/img/headers/front.svg");
   background-size: 100% 100%, $header-background-size $header-background-size;
+  filter: hue-rotate(45deg);
   font-family: $fh;
   //The animation is too slow so it's disabled unless we can find a performant way to do it
   // Enable animation only when hovering header
@@ -331,7 +332,6 @@ address {
     }
     .header--logo {
       grid-column: span 4;
-      grid-row: 2;
       justify-self: start;
     }
     .logo {
