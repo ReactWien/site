@@ -1,4 +1,4 @@
-Vienna is one of the centers of central Europe. The city famous of its beauty is known for its high culture but there's more to it. The city has a vibrant React community and it hosts several leading names in the community. Combined, this makes it the ideal place for you to improve your React skills.
+Vienna is one of the centers of Europe. The city famous of its beauty is known for its high culture but there's more to it. The city has a vibrant React community and it hosts several leading names in the community. Combined, this makes it the ideal place for you to improve your React skills.
 
 The offering is simple, come to us and we will improve your understanding of the technology. You will learn about the following topics:
 
